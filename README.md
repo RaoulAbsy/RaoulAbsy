@@ -1,0 +1,5 @@
+- @RaoulAbsy
+- Analysis and systems development student
+- linkedin.com/in/raoulabsy
+- HTML and Python
+- VisuAlg, PyCharm
